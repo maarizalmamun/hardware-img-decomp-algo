@@ -1,4 +1,4 @@
-### Hardware Image Decompression Algorithm
+# Hardware Image Decompression Algorithm
 
 ## Introduction
 
